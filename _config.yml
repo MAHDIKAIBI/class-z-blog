@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Class-Z Official Blog
 description: The latest videos and deep dives from Class-Z.
+future: true
